@@ -38,4 +38,4 @@ Before running the notebook, ensure you have the following software and packages
 - To replicate the analysis or adapt it to your needs:
 
   - Ensure all dependencies are installed.
-  - Run the Jupyter Notebook investing_strategy.ipynb to execute the code and view the analysis.
+  - Run the Jupyter Notebook `SentimentInvestingStrategy.ipynb` to execute the code and view the analysis.
