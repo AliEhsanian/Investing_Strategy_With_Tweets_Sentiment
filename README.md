@@ -1,10 +1,10 @@
-# Investing Strategy Based on Sentiment Analysis of Tweets in X
+# Investing Strategy Based on Sentiment Analysis of Tweets on X (ex-Twitter)
 
-This repository contains a Jupyter Notebook that outlines an innovative investing strategy based on the sentiment analysis of Tweets related to stocks listed on the X market. The strategy leverages data-driven insights to select stocks monthly, based on their social media engagement and sentiment scores, and compares the performance with the NASDAQ index.
+This repository contains a Jupyter Notebook that outlines an investing strategy based on the sentiment analysis of Tweets on X (ex-Twitter). The strategy leverages data-driven insights to select stocks monthly, based on their social media engagement and sentiment scores, and compares the performance with the NASDAQ index.
 
-## Installation and Requirements
+## Requirements
 
-Before running the notebook, ensure you have the following software and packages installed:
+Before running the notebook, ensure you have the following packages installed:
 
 - Python 3.11.6
 - numpy 1.26.4
